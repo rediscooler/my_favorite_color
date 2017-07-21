@@ -1,1 +1,3 @@
-# my_favorite_color
+# My favorite color
+
+My favorite color is red.
